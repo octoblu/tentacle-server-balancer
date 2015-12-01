@@ -1,2 +1,1 @@
-# tentacle-server-balancer
-Load Balance the Tentacle!
+# meshblu-coap-balancer
